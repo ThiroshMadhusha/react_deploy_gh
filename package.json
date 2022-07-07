@@ -1,18 +1,13 @@
 {
   "name": "react-01",
   "version": "0.1.0",
+  "homepage":"https://ThiroshMadhusha.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^12.1.5",
-    "@testing-library/user-event": "^12.8.3",
-    "@types/react": "^17.0.47",
-    "@types/react-dom": "^17.0.17",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.4.0",
-    "react-scripts": "^4.0.3",
-    "web-vitals": "^1.1.2"
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
